@@ -1,0 +1,240 @@
+THola
+v7
+r0
+t332838885.437181
+cCheck dependencies
+cProcessInfoPlistFile /Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app/Info.plist Hola-Info.plist
+cCompileXIB /Users/Ada/Documents/Hola/MainWindow.xib
+cCompileXIB /Users/Ada/Documents/Hola/HolaViewController.xib
+cProcessPCH /var/folders/cI/cIvsCujiFmmsV3LQs5nRxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hola_Prefix-averijgiooavoybsyjsucrsrzeqt/Hola_Prefix.pch.gch Hola_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/main.o /Users/Ada/Documents/Hola/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/HolaAppDelegate.o /Users/Ada/Documents/Hola/Classes/HolaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/HolaViewController.o /Users/Ada/Documents/Hola/Classes/HolaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/Ada/Documents/Hola/Classes/HolaAppDelegate.h
+c000000004E267F8F00000000000001BC
+t1311145871
+s444
+i<UIKit/UIKit.h>
+
+N/Users/Ada/Documents/Hola/Classes/HolaAppDelegate.m
+c000000004E267F8F0000000000000A8A
+t1311145871
+s2698
+i"HolaAppDelegate.h"
+i"HolaViewController.h"
+
+N/Users/Ada/Documents/Hola/Classes/HolaViewController.h
+c000000004E26805E00000000000000C7
+t1311146078
+s199
+i<UIKit/UIKit.h>
+
+N/Users/Ada/Documents/Hola/Classes/HolaViewController.m
+c000000004E26805E00000000000000A9
+t1311146078
+s169
+
+N/Users/Ada/Documents/Hola/HolaViewController.xib
+c000000004E267F8F0000000000001A39
+t1311145871
+s6713
+
+N/Users/Ada/Documents/Hola/Hola_Prefix.pch
+c000000004E267F8F00000000000000B1
+t1311145871
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Ada/Documents/Hola/MainWindow.xib
+c000000004E267F8F0000000000004E05
+t1311145871
+s19973
+
+N/Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app
+t1311146080
+s204
+
+N/Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app.dSYM
+t2
+s0
+
+N/Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app/Hola
+t2
+s0
+
+N/Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app/HolaViewController.nib
+t1311146080
+s1269
+
+N/Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app/Info.plist
+t1311146078
+s579
+
+N/Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app/MainWindow.nib
+t1311146080
+s1675
+
+N/Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app/PkgInfo
+t1311146078
+s8
+
+N/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/Hola.LinkFileList
+c000000004E26805E000000000000014E
+t1311146078
+s334
+
+N/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/HolaAppDelegate.o
+t1311146085
+s51080
+
+N/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/HolaViewController.o
+t2
+s0
+
+N/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/main.o
+t1311146085
+s6284
+
+N/Users/Ada/Documents/Hola/main.m
+c000000004E267F8F0000000000000155
+t1311145871
+s341
+i<UIKit/UIKit.h>
+
+N/var/folders/cI/cIvsCujiFmmsV3LQs5nRxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hola_Prefix-averijgiooavoybsyjsucrsrzeqt/Hola_Prefix.pch.gch
+t1311146084
+s15814064
+
+NHola-Info.plist
+c000000004E267F8F000000000000038D
+t1311145871
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332838878#332838878#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/HolaAppDelegate.o /Users/Ada/Documents/Hola/Classes/HolaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332838885.134403
+e332838885.417855
+r1
+xCompileC
+xbuild/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/HolaAppDelegate.o
+x/Users/Ada/Documents/Hola/Classes/HolaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Ada/Documents/Hola/Classes/HolaAppDelegate.m: In function '-[HolaAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/Ada/Documents/Hola/Classes/HolaAppDelegate.m:26: warning: incompatible Objective-C types 'struct HolaViewController *', expected 'struct UIViewController *' when passing argument 1 of 'setRootViewController:' from distinct Objective-C type
+lSLF07#2@59"Compile /Users/Ada/Documents/Hola/Classes/HolaAppDelegate.m332838885#332838885#0(377"/Users/Ada/Documents/Hola/Classes/HolaAppDelegate.m: In function '-[HolaAppDelegate application:didFinishLaunchingWithOptions:]':/Users/Ada/Documents/Hola/Classes/HolaAppDelegate.m:26: warning: incompatible Objective-C types 'struct HolaViewController *', expected 'struct UIViewController *' when passing argument 1 of 'setRootViewController:' from distinct Objective-C type1(22@181"Incompatible Objective-C types 'struct HolaViewController *', expected 'struct UIViewController *' when passing argument 1 of 'setRootViewController:' from distinct Objective-C type332838885#130#247#0(6@51"/Users/Ada/Documents/Hola/Classes/HolaAppDelegate.m332838671#26#0#26#0#0"0(0#0#51"/Users/Ada/Documents/Hola/Classes/HolaAppDelegate.m8592605280#1741"    cd /Users/Ada/Documents/Hola    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-generated-files.hmap -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-own-target-headers.hmap -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-all-target-headers.hmap -iquote /Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-project-headers.hmap -F/Users/Ada/Documents/Hola/build/Debug-iphonesimulator -I/Users/Ada/Documents/Hola/build/Debug-iphonesimulator/include -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/DerivedSources/i386 -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/DerivedSources -include /var/folders/cI/cIvsCujiFmmsV3LQs5nRxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hola_Prefix-averijgiooavoybsyjsucrsrzeqt/Hola_Prefix.pch -c /Users/Ada/Documents/Hola/Classes/HolaAppDelegate.m -o /Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/HolaAppDelegate.o0#
+
+CCompileC build/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/HolaViewController.o /Users/Ada/Documents/Hola/Classes/HolaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332838885.347717
+e332838885.434889
+r0
+xCompileC
+xbuild/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/HolaViewController.o
+x/Users/Ada/Documents/Hola/Classes/HolaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Ada/Documents/Hola/Classes/HolaViewController.m:1: error: @synthesize property must be in implementation context
+o/Users/Ada/Documents/Hola/Classes/HolaViewController.m:3: fatal error: method definition not in @implementation context
+ocompilation terminated.
+o{standard input}:34:FATAL:.abort  detected.  Assembly stopping.
+lSLF07#2@62"Compile /Users/Ada/Documents/Hola/Classes/HolaViewController.m332838885#332838885#0(328"/Users/Ada/Documents/Hola/Classes/HolaViewController.m:1: error: @synthesize property must be in implementation context/Users/Ada/Documents/Hola/Classes/HolaViewController.m:3: fatal error: method definition not in @implementation contextcompilation terminated.{standard input}:34:FATAL:.abort  detected.  Assembly stopping.2(4@54"@synthesize property must be in implementation context332838885#0#120#0(6@54"/Users/Ada/Documents/Hola/Classes/HolaViewController.m332838878#1#0#1#0#0"0(4@48"Method definition not in @implementation context332838885#120#120#0(6@54"/Users/Ada/Documents/Hola/Classes/HolaViewController.m332838878#3#0#3#0#48"method definition not in @implementation context0(0#0#54"/Users/Ada/Documents/Hola/Classes/HolaViewController.m8607227552#1747"    cd /Users/Ada/Documents/Hola    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-generated-files.hmap -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-own-target-headers.hmap -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-all-target-headers.hmap -iquote /Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-project-headers.hmap -F/Users/Ada/Documents/Hola/build/Debug-iphonesimulator -I/Users/Ada/Documents/Hola/build/Debug-iphonesimulator/include -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/DerivedSources/i386 -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/DerivedSources -include /var/folders/cI/cIvsCujiFmmsV3LQs5nRxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hola_Prefix-averijgiooavoybsyjsucrsrzeqt/Hola_Prefix.pch -c /Users/Ada/Documents/Hola/Classes/HolaViewController.m -o /Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/HolaViewController.o1#
+
+CCompileC build/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/main.o /Users/Ada/Documents/Hola/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332838885.131915
+e332838885.347559
+r1
+xCompileC
+xbuild/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/main.o
+x/Users/Ada/Documents/Hola/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Compile /Users/Ada/Documents/Hola/main.m332838885#332838885#0(0"0(0#0#32"/Users/Ada/Documents/Hola/main.m8607715008#1711"    cd /Users/Ada/Documents/Hola    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-generated-files.hmap -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-own-target-headers.hmap -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-all-target-headers.hmap -iquote /Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-project-headers.hmap -F/Users/Ada/Documents/Hola/build/Debug-iphonesimulator -I/Users/Ada/Documents/Hola/build/Debug-iphonesimulator/include -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/DerivedSources/i386 -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/DerivedSources -include /var/folders/cI/cIvsCujiFmmsV3LQs5nRxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hola_Prefix-averijgiooavoybsyjsucrsrzeqt/Hola_Prefix.pch -c /Users/Ada/Documents/Hola/main.m -o /Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Ada/Documents/Hola/HolaViewController.xib
+s332838878.902551
+e332838880.600419
+r1
+xCompileXIB
+x/Users/Ada/Documents/Hola/HolaViewController.xib
+lSLF07#2@33"CompileXIB HolaViewController.xib332838878#332838880#0(0"0(0#0#48"/Users/Ada/Documents/Hola/HolaViewController.xib27303536604676168#544"    cd /Users/Ada/Documents/Hola    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app/HolaViewController.nib /Users/Ada/Documents/Hola/HolaViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/Ada/Documents/Hola/MainWindow.xib
+s332838878.792285
+e332838880.594840
+r1
+xCompileXIB
+x/Users/Ada/Documents/Hola/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib332838878#332838880#0(0"0(0#0#40"/Users/Ada/Documents/Hola/MainWindow.xib8608027008#528"    cd /Users/Ada/Documents/Hola    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app/MainWindow.nib /Users/Ada/Documents/Hola/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app.dSYM /Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app/Hola
+r0
+
+CLd /Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app/Hola normal i386
+r0
+
+CProcessInfoPlistFile /Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app/Info.plist Hola-Info.plist
+s332838878.747561
+e332838878.792090
+r1
+xProcessInfoPlistFile
+x/Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app/Info.plist
+xHola-Info.plist
+lSLF07#2@23"Process Hola-Info.plist332838878#332838878#0(0"0(0#0#41"/Users/Ada/Documents/Hola/Hola-Info.plist20266400194101360#431"    cd /Users/Ada/Documents/Hola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Hola-Info.plist -genpkginfo /Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app/Info.plist0#
+
+CProcessPCH /var/folders/cI/cIvsCujiFmmsV3LQs5nRxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hola_Prefix-averijgiooavoybsyjsucrsrzeqt/Hola_Prefix.pch.gch Hola_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332838880.600641
+e332838885.131640
+r1
+xProcessPCH
+x/var/folders/cI/cIvsCujiFmmsV3LQs5nRxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hola_Prefix-averijgiooavoybsyjsucrsrzeqt/Hola_Prefix.pch.gch
+xHola_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Hola_Prefix.pch332838880#332838885#0(0"0(0#0#41"/Users/Ada/Documents/Hola/Hola_Prefix.pch8606979456#1619"    cd /Users/Ada/Documents/Hola    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-generated-files.hmap -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-own-target-headers.hmap -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-all-target-headers.hmap -iquote /Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/Hola-project-headers.hmap -F/Users/Ada/Documents/Hola/build/Debug-iphonesimulator -I/Users/Ada/Documents/Hola/build/Debug-iphonesimulator/include -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/DerivedSources/i386 -I/Users/Ada/Documents/Hola/build/Hola.build/Debug-iphonesimulator/Hola.build/DerivedSources -c /Users/Ada/Documents/Hola/Hola_Prefix.pch -o /var/folders/cI/cIvsCujiFmmsV3LQs5nRxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hola_Prefix-averijgiooavoybsyjsucrsrzeqt/Hola_Prefix.pch.gch0#
+
+CTouch /Users/Ada/Documents/Hola/build/Debug-iphonesimulator/Hola.app
+r0
+
